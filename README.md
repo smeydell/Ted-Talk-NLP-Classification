@@ -31,7 +31,7 @@ Being able to quickly classify and assign a given TED talk, based on other simil
 
 **- Main_speaker:** The first named speaker of the talk
 
-**- Name: **The official name of the TED Talk; includes the title and the speaker
+**- Name:** The official name of the TED Talk; includes the title and the speaker
 
 **- Num_speaker:** The number of speakers in the talk
 
@@ -49,7 +49,7 @@ Being able to quickly classify and assign a given TED talk, based on other simil
 
 **- Url:** The URL of the talk
 
-**- Views: **Total views for talk
+**- Views:** Total views for talk
 
 **Data Provided - Transcript:**
 
