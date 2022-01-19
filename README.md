@@ -16,24 +16,43 @@ Being able to peel back and examine various layers of details within the dataset
 Being able to quickly classify and assign a given TED talk, based on other similar feature patterns, would allow for improved viewer experiences from accurate user preference alignment as it relates to Tags, Ratings, and Comment popularity (counts).
 
 **Data Provided - Summary:**
+
 **- Comments:** The number of first level comments made on the talk
+
 **- Description:** A blurb of what the talk is about
+
 **- Duration:** The duration of the talk in seconds
+
 **- Event:** The TED/TEDx event where the talk took place
+
 **- Film_date:** The Unix timestamp of the filming
+
 **- Languages:** The number of languages in which the talk is available
+
 **- Main_speaker:** The first named speaker of the talk
+
 **- Name: **The official name of the TED Talk; includes the title and the speaker
+
 **- Num_speaker:** The number of speakers in the talk
+
 **- Published_date:** The Unix timestamp for the publication of the talk on TED.com
+
 **- Ratings:** Groups of ratings assigned to each talk
+
 **- Related_talks:** Similar talks/links
+
 **- Speaker_occupation:** Primary speaker occupation/focus
+
 **- Tags:** Tags assigned to the talk
+
 **- Title:** Title of TED talk
+
 **- Url:** The URL of the talk
+
 **- Views: **Total views for talk
 
 **Data Provided - Transcript:**
+
 **- Transcript:** The official English transcript of the talk
+
 **- URL:** The URL of the talk
